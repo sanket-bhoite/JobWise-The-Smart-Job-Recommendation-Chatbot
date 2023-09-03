@@ -21,6 +21,7 @@ Additionally, our chatbot offers a unique feature that sets it apart from tradit
 ### Technologies Used
 - Python
 - Natural Language Processing (NLP)
+- TextBase
 - Artificial Intelligence (AI)
 
 ## Installation
