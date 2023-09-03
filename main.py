@@ -252,7 +252,7 @@ def on_message(message_history: List[Message], state: dict = None):
         user_info["job_role"] = user_input[0]["value"]
 
         # Ask for graduation
-        bot_response = "Got it! Please specify your highest level of graduation (e.g., Bachelor's, Master's, Ph.D.)."
+        bot_response = "Got it! Please specify your highest level of graduation (e.g., Btech, MS, phd)."
         user_info["intent"] = "graduation"
 
     elif user_info["intent"] == "graduation":
