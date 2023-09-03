@@ -9,7 +9,7 @@ import re
 import PyPDF2
 import io
 # Configure the OpenAI API key from an environment variable
-OpenAI.api_key = "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"
+OpenAI.api_key = "API KEY"
 
 # Load a pre-trained spaCy model for NLP tasks
 nlp = spacy.load("en_core_web_sm")
