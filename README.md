@@ -31,6 +31,11 @@ Clone the repository and install the dependencies using [Poetry](https://python-
 ```bash
 git clone https://github.com/cofactoryai/textbase
 cd textbase
+pip install spacy
+pip install pandas
+pip install requests
+pip install PyPDF2
+python -m spacy download en_core_web_sm
 poetry shell
 poetry install
 ```
