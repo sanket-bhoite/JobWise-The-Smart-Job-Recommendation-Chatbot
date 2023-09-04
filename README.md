@@ -16,7 +16,8 @@ Additionally, our chatbot offers a unique feature that sets it apart from tradit
 - Personalized job recommendations based on user qualifications and preferences.
 - Automatically extract key resume details to provide precise job matches.
 - User-friendly interface for a seamless experience.
-  
+
+# [DEMO VIDEOO LINK CHECK HERE](https://www.youtube.com/watch?v=Vk5Z9ZTWykw)
 
 ### Technologies Used
 - Python
