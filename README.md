@@ -1,5 +1,5 @@
 # JobWise: The Smart Job Recommendation Chatbot
-### DEMO VIDEO LINK : [CHECK HERE](https://www.youtube.com/watch?v=Vk5Z9ZTWykw)
+### [DEMO VIDEO LINK CHECK HERE](https://www.youtube.com/watch?v=Vk5Z9ZTWykw)
 
 ![](https://github.com/sanket-bhoite/JobWise-The-Smart-Job-Recommendation-Chatbot/blob/main/JobWise%20Bot.gif)
 
