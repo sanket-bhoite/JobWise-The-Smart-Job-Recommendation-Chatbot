@@ -1,6 +1,6 @@
 # JobWise: The Smart Job Recommendation Chatbot
 
-![](JobWise Bot.gif)
+![](https://github.com/sanket-bhoite/JobWise-The-Smart-Job-Recommendation-Chatbot/blob/main/JobWise%20Bot.gif)
 
 ## Problem Statement
 To streamline job searching by providing job recommendations based on user qualifications, preferences and resume.
