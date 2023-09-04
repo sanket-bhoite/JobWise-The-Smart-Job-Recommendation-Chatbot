@@ -1,6 +1,6 @@
 # JobWise: The Smart Job Recommendation Chatbot
 
-![JobWise GIF](bot.gif)
+![JobWise GIF](bot.mp4)
 
 ## Problem Statement
 To streamline job searching by providing job recommendations based on user qualifications, preferences and resume.
