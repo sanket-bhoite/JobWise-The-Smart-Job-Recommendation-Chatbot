@@ -18,6 +18,9 @@ Additionally, our chatbot offers a unique feature that sets it apart from tradit
 - Automatically extract key resume details to provide precise job matches.
 - User-friendly interface for a seamless experience.
 
+### To use the resume based job recommendation feature you need to provide the google drive file downlodable link using https://sites.google.com/site/gdocs2direct/
+
+
 ### Technologies Used
 - Python
 - Natural Language Processing (NLP)
