@@ -148,7 +148,7 @@ def on_message(message_history: List[Message], state: dict = None):
     user_intent = user_input[0]["value"]
     
     if is_job_relatedresume(user_intent):
-    	bot_response = "please enter the pdf url"
+    	bot_response = "please enter the resume pdf url. To use the resume based job recommendation feature you need to provide the google drive file downlodable link using https://sites.google.com/site/gdocs2direct/"
     	user_info["pdfurl"] = "pdf"
 
     elif user_info["pdfurl"] == "pdf":
